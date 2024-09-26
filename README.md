@@ -9,8 +9,8 @@ NETGUARD is a simple network testing tool that allows users to ping IP addresses
 - Secure access via username and password.
 
 ## LOGIN CREDENTIALS
-- USERNAME: NET.
-- PASSWORD: GUARD.
+- USERNAME: NET
+- PASSWORD: GUARD
 
 ## Requirements
 - Python 3.x
