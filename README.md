@@ -8,6 +8,10 @@ NETGUARD is a simple network testing tool that allows users to ping IP addresses
 - Future DDoS tool (coming soon).
 - Secure access via username and password.
 
+## LOGIN CREDENTIALS
+-USERNAME: NET
+-PASSWORD: GUARD
+
 ## Requirements
 - Python 3.x
 - `colorama` library (for colored console output)
@@ -17,3 +21,6 @@ NETGUARD is a simple network testing tool that allows users to ping IP addresses
 2. Install the `colorama` library using pip:
    ```bash
    pip install colorama
+
+## PURPOSE
+THIS PROGRAM IS FOR EDUCATIONAL PURPOSES ONLY!!!
